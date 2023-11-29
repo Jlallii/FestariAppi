@@ -5,6 +5,7 @@ FestivalApp that ables to see where your friends are in the festival and you can
 Every festival has little info about them and a link to buy tickets. You can also mark festivals to your favorites and they will go to your favorite list, so its easier to see the festivals you are actually interested in.
 
 Here is only login/registration as a code. For the sign in and sign up I used Firebase to authenticate and to proberly sign up.
+
 Under is a video of the whole project: 
 
 
